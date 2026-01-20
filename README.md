@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <img src="https://via.placeholder.com/150/ff0000/ffffff?text=AEGIS+SHIELD" alt="Aegis Logo" width="120" height="120">
+  <img src="https://wuplish.com.tr/x.png" alt="Aegis Logo" width="120" height="120">
 
   <h1 style="font-size: 3rem; font-weight: bold; margin-top: 10px;">AEGIS ANTI-CHEAT</h1>
 
