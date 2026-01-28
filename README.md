@@ -85,6 +85,6 @@ We are constantly pushing the boundaries. Here is what's coming next:
 
 ## 🛠️ Installation & Config
 
-1.  **Download** the latest release (Available Feb 1st).
+1.  **Download** the latest release (Available Mar 1st).
 2.  **Drop** into `/plugins`.
 3.  **Restart** your server.
